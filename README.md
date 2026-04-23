@@ -30,9 +30,6 @@ The project highlights the intersection of **Data Analytics** and **UX Design**,
 * **Power Query (M Language):** For ETL processes and data cleaning.
 * **Figma/Canvas:** Used for background design and layout planning.
 
-## 📊 Dashboard Preview
-*(Replace the link below with your actual dashboard screenshot or GIF)*
-![HandyHome Dashboard Preview](https://via.placeholder.com/800x450?text=Insert+Dashboard+Screenshot+Here)
 
 ## 💡 Key Takeaway
 A great report doesn’t just present data—it guides the user toward better decisions through intuitive design and clear, actionable insights.
